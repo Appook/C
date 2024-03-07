@@ -18,7 +18,7 @@ int main()
     p1 = &c;
     printf("*p1: %c \n", *p1);
     printf("Pointer is a variable, which value is the address of the pointed object p1 = %p \n", p1);
-    printf("Address of the pointer: %p \n", &p3);
+    printf("Address f the pointer: %p \n", &p3);
     return 0;
 
 }
